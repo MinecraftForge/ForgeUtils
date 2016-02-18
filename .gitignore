@@ -1,11 +1,19 @@
+# gradle stuff
+build
 .gradle
-build/
 
-# Ignore Gradle GUI config
-gradle-app.setting
+# eclipse stuff
+.classpath
+.project
+.settings
+bin
 
-# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
-!gradle-wrapper.jar
+# run place
+run
 
-# Cache of project
-.gradletasknamecache
+# intellij stuff
+.idea
+out
+*.iml
+*.iws
+*.ipr

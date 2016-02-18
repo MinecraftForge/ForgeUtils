@@ -1,0 +1,4 @@
+include 'server'
+include 'inventory'
+
+rootProject.name = 'ForgeUtils'
